@@ -3,7 +3,6 @@ import Main from './components/MainContent.jsx'
 import Navbar from './components/Navbar.jsx'
 import './css/app.css'
 import React from 'react'
-import Radium from 'radium'
 
 
 export default function App() {
