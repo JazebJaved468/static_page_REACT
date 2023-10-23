@@ -8,7 +8,7 @@ import React from 'react'
 export default function App() {
 
   // setting isDark state
-  const [isDark, setIsDark] = React.useState(false);
+  const [isDark, setIsDark] = React.useState(true);
   
   // function to switch mode
   function switchMode() {
